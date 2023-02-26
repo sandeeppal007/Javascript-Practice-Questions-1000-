@@ -1,0 +1,1 @@
+## Javascript Practice Question 1000+ 
